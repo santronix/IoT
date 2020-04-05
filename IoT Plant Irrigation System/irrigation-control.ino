@@ -1,3 +1,12 @@
+/*******************************************************
+ * SANTRONIX <info@santronix.in>
+ * 
+ * This file is part of SANTRONIX Mediatek LinkIt Tutorials Project.
+ * 
+ * SANTRONIX Mediatek LinkIt Tutorials Project can not be copied and/or distributed without the express
+ * permission of SANTRONIX
+ *******************************************************/
+
 #define WetSoilValue        3200
 #define SensorPin           A0
 #define MotorPin            7
